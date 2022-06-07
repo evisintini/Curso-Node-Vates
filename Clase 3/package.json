@@ -1,0 +1,14 @@
+{
+  "name": "clase-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arreglo_numeros.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eze",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
